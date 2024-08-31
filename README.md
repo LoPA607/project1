@@ -12,7 +12,7 @@ I love to code.
 ![IMAGE](abc.png)
 ***
 ## GITHUB
-> It is a version control system.
+> It is a version control system ...
 >> it is used by many programmers.<br>
  😊
 
